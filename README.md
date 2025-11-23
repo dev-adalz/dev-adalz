@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adal%20Zuhair&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=dev-adalz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 ### 💫 Developer • Robotics Competitor • Community Builder
 
