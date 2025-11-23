@@ -274,37 +274,54 @@ Turning experiments into production-ready tools people actually use
 
 ## 🎓 Building Communities
 
-</div>
+**NebuCoders Workshops** — Turning learners into builders through hands-on sessions
 
-<img align="left" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<table>
+<tr>
+<td width="50%">
 
-### NebuCoders Workshops
+**🤖 Robotics Bootcamp**
 
-<div align="right">
+Hardware basics → Motor control → Sensor integration
 
-**Turning learners into builders through hands-on sessions:**
+*Get hands-on with Arduino, servos, and real robotics projects*
 
-🤖 **Robotics Bootcamp** - 
-<br>
-`Hardware basics → Motor control → Sensor integration`
+</td>
+<td width="50%">
 
-👁️ **Computer Vision Intro** -  
-`Image pipelines → OpenCV → Simple ML models`
+**👁️ Computer Vision Intro**
 
-☁️ **Cloud for Students** -  
-`FastAPI setup → Docker containers → Live deployment`
+Image pipelines → OpenCV → Simple ML models
 
-🔐 **Security Fundamentals** -  
-`Ethical hacking basics → Secure coding → CTF challenges`
+*Build your first vision system from scratch*
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**📧 Workshop inquiries:** [adalzuhair.info@gmail.com](mailto:adalzuhair.info@gmail.com)
+**☁️ Cloud for Students**
 
-<br clear="left"/>
-</div>
+FastAPI setup → Docker containers → Live deployment
+
+*Deploy your first API to the cloud in under an hour*
+
+</td>
+<td width="50%">
+
+**🔐 Security Fundamentals**
+
+Ethical hacking basics → Secure coding → CTF challenges
+
+*Learn to think like both attacker and defender*
+
+</td>
+</tr>
+</table>
+
+**📧 Workshop inquiries:** adalzuhair.info@gmail.com
+
 ---
-
 <div align="center">
 
 ## 🎯 The Roadmap
