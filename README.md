@@ -1,25 +1,411 @@
-# 💫 About Me:
-👋 Hello, World! I’m Adal Zuhair!<br>🚀 Passionate Developer | Community Builder | Lifelong Learner<br><br>🌱 Currently exploring Machine Learning and Cloud Computing<br>💻 Proficient in Python, JavaScript, and C++<br>🔭 Working on exciting projects like Portfolio Website, Plant Recognizer using ML<br>🛠️ Building and leading the [NebuCoders](https://nebucoders.org/) community<br>📫 Reach me at [adalzuhair.info@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=adalzuhair.info@gmail.com&tf=cm)<br><br>🏆 Achievements:<br>🥇 Robotics Olympiad winner at Presidency Robotics Olympiad<br>🥇World Robot Olympiad Bangladesh Nationalist at WROBD'25<br>🎓 Cambridge International AS and A Level student<br><br>🌟 Let’s Connect! :)<br>✉️Message me on [Discord](https://discordapp.com/users/671635704811618305)
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adal%20Zuhair&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2Gm7En2dxj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_adalz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14798993) 
+### 💫 Developer • Robotics Competitor • Community Builder
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![AIOHTTP](https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=plastic&logo=aiohttp&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-adalz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-adalz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-adalz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://dev-adalz.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:adalzuhair.info@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://instagram.com/not_adalz"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logoColor=white"/></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-adalz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```typescript
+const adal = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    timezone: "UTC+6",
+    education: "Cambridge AS & A Level",
+    passion: "Building tech that teaches, communities that uplift",
+    current_role: "President @ Presidency Intl. School Robotics Club"
+};
+```
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-adalz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hpeadal) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What Drives Me
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/1336/1336494.png" width="80"/>
+
+**Craft & Build**
+Creating scalable systems that solve real problems
+</td>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/2821/2821583.png" width="80"/>
+
+**Innovate & Compete**
+Pushing boundaries in robotics competitions
+</td>
+<td width="33%" align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/3976/3976625.png" width="80"/>
+
+**Teach & Empower**
+Building communities where learners become creators
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔥 Current Mission
+
+</div>
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif">
+
+### 🌐 Mastering Web Development
+Building secure, performant full-stack applications that scale
+
+### 🔐 Exploring Cybersecurity
+Diving into ethical hacking, penetration testing, and system security
+
+### ☁️ Conquering Cloud & DevOps
+Automating deployments with Docker, FastAPI, AWS/Azure
+
+### 🤖 Creating Robotics Magic
+Leading the Presidency Robotics Club's custom arcade machine build
+
+### 🚀 Shipping Real Products
+Turning experiments into production-ready tools people actually use
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🛠️ Arsenal
+
+</div>
+
+### Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Hardware & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
+
+<div align="center">
+
+## 🚀 Projects in the Lab
+
+### *Building in public. Docs & code coming soon.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🕹️ Custom Arcade Machine</h3>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/2593/2593635.png" width="80"/>
+<p><strong>Leading the build @ Presidency Robotics Club</strong></p>
+<p>Custom hardware • Game dev • Embedded systems</p>
+<p>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Custom_PCB-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+<p><em>📄 Documentation uploading soon</em></p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Full-Stack Portfolio</h3>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/1336/1336494.png" width="80"/>
+<p><strong>Secure web app with modern architecture</strong></p>
+<p>RESTful APIs • Authentication • Cloud deployment</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+<p><em>🔨 In active development</em></p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🤖 IoT Robotics System</h3>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/4712/4712027.png" width="80"/>
+<p><strong>Hardware meets cloud intelligence</strong></p>
+<p>Embedded control • Cloud APIs • Real-time automation</p>
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+</p>
+<p><em>⚡ Prototyping phase</em></p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🔒 Security Learning Labs</h3>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/6195/6195699.png" width="80"/>
+<p><strong>Hands-on ethical hacking playground</strong></p>
+<p>Pen-testing • Secure coding • Threat modeling</p>
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+<p><em>🛡️ Curriculum in progress</em></p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Milestones & Recognition
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/3976/3976625.png" width="64"/>
+<br>
+<strong>President</strong>
+<br>
+<sub>Presidency Intl. School<br>Robotics Club</sub>
+<br>
+<code>2024-Present</code>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/2583/2583788.png" width="64"/>
+<br>
+<strong>🥇 Winner</strong>
+<br>
+<sub>Presidency Robotics<br>Olympiad</sub>
+<br>
+<code>2024</code>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/555/555417.png" width="64"/>
+<br>
+<strong>🇧🇩 Nationalist</strong>
+<br>
+<sub>World Robot<br>Olympiad Bangladesh</sub>
+<br>
+<code>2025</code>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/3976/3976631.png" width="64"/>
+<br>
+<strong>Cambridge</strong>
+<br>
+<sub>AS & A Level<br>(STEM Focus)</sub>
+<br>
+<code>2024</code>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-adalz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-adalz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-adalz&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-adalz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Building Communities
+
+</div>
+
+<img align="left" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
+### NebuCoders Workshops
+
+**Turning learners into builders through hands-on sessions:**
+
+🤖 **Robotics Bootcamp**  
+Hardware basics → Motor control → Sensor integration
+
+👁️ **Computer Vision Intro**  
+Image pipelines → OpenCV → Simple ML models
+
+☁️ **Cloud for Students**  
+FastAPI setup → Docker containers → Live deployment
+
+🔐 **Security Fundamentals**  
+Ethical hacking basics → Secure coding → CTF challenges
+
+<br>
+
+**📧 Workshop inquiries:** [adalzuhair.info@gmail.com](mailto:adalzuhair.info@gmail.com)
+
+<br clear="left"/>
+
+---
+
+<div align="center">
+
+## 🎯 The Roadmap
+
+</div>
+
+### 🚀 Next 6-12 Months
+
+```diff
++ Ship 3 production-ready full-stack projects
++ Run 6 NebuCoders community workshops
++ Publish complete robotics bootcamp curriculum
++ Complete cybersecurity certification path
++ Launch custom arcade machine at club showcase
+```
+
+### 🌟 Next 1-4 Years
+
+```diff
++ Build educational platform for 1000+ student developers
++ Secure internship in cloud/security/robotics automation
++ Create open-source automation framework (10k+ users)
++ Scale mentorship community across Bangladesh
++ Compete internationally in robotics competitions
+```
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Together
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/3242/3242257.png" width="64"/>
+<br>
+<strong>Contribute</strong>
+<br>
+<sub>Open issues/PRs<br>on any repo</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/2521/2521826.png" width="64"/>
+<br>
+<strong>Workshop</strong>
+<br>
+<sub>Guest talks &<br>teaching collabs</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" width="64"/>
+<br>
+<strong>Opportunities</strong>
+<br>
+<sub>Internships &<br>project work</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/128/2917/2917995.png" width="64"/>
+<br>
+<strong>Sponsor</strong>
+<br>
+<sub>Support student<br>tech events</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Preferred workflow:** Small scope → Fast prototype → Iterate publicly
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Connect & Support
+
+<p>
+  <a href="https://dev-adalz.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4285F4?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:adalzuhair.info@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/not_adalz">
+    <img src="https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://paypal.me/hpeadal">
+    <img src="https://img.shields.io/badge/☕_Support-Workshops_&_Hardware-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+### ⚡ *Building tech that teaches. Creating communities that last.*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-adalz&color=blueviolet&style=for-the-badge)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
