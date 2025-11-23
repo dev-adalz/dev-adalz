@@ -226,7 +226,7 @@ Turning experiments into production-ready tools people actually use
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/555/555417.png" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpZr6GpkxJoKnmbYrtk8HNdDDeyUtUs1lTw&s" width="100"/>
 <br>
 <strong>🇧🇩 Nationalist</strong>
 <br>
@@ -280,26 +280,29 @@ Turning experiments into production-ready tools people actually use
 
 ### NebuCoders Workshops
 
+<div align="right">
+
 **Turning learners into builders through hands-on sessions:**
 
-🤖 **Robotics Bootcamp**  
-Hardware basics → Motor control → Sensor integration
+🤖 **Robotics Bootcamp** - 
+<br>
+`Hardware basics → Motor control → Sensor integration`
 
-👁️ **Computer Vision Intro**  
-Image pipelines → OpenCV → Simple ML models
+👁️ **Computer Vision Intro** -  
+`Image pipelines → OpenCV → Simple ML models`
 
-☁️ **Cloud for Students**  
-FastAPI setup → Docker containers → Live deployment
+☁️ **Cloud for Students** -  
+`FastAPI setup → Docker containers → Live deployment`
 
-🔐 **Security Fundamentals**  
-Ethical hacking basics → Secure coding → CTF challenges
+🔐 **Security Fundamentals** -  
+`Ethical hacking basics → Secure coding → CTF challenges`
 
 <br>
 
 **📧 Workshop inquiries:** [adalzuhair.info@gmail.com](mailto:adalzuhair.info@gmail.com)
 
 <br clear="left"/>
-
+</div>
 ---
 
 <div align="center">
