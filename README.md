@@ -206,7 +206,7 @@ Turning experiments into production-ready tools people actually use
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/3976/3976625.png" width="64"/>
+<img src="https://i.postimg.cc/6qGp20xK/Black-White-Simple-Modern-Neon-Griddy-Bold-Technology-Pixel-Electronics-Store-Logo-1-removebg-prev.png" width="100"/>
 <br>
 <strong>President</strong>
 <br>
@@ -216,7 +216,7 @@ Turning experiments into production-ready tools people actually use
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/2583/2583788.png" width="64"/>
+<img src="https://i.postimg.cc/6qGp20xK/Black-White-Simple-Modern-Neon-Griddy-Bold-Technology-Pixel-Electronics-Store-Logo-1-removebg-prev.png" width="100"/>
 <br>
 <strong>🥇 Winner</strong>
 <br>
@@ -226,7 +226,7 @@ Turning experiments into production-ready tools people actually use
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/555/555417.png" width="64"/>
+<img src="https://cdn-icons-png.flaticon.com/128/555/555417.png" width="100"/>
 <br>
 <strong>🇧🇩 Nationalist</strong>
 <br>
