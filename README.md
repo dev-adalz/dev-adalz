@@ -134,7 +134,7 @@ Turning experiments into production-ready tools people actually use
 <td width="50%">
 <h3 align="center">🕹️ Custom Arcade Machine</h3>
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/2593/2593635.png" width="80"/>
+<img src="https://i.postimg.cc/6qGp20xK/Black-White-Simple-Modern-Neon-Griddy-Bold-Technology-Pixel-Electronics-Store-Logo-1-removebg-prev.png" width="100"/>
 <p><strong>Leading the build @ Presidency Robotics Club</strong></p>
 <p>Custom hardware • Game dev • Embedded systems</p>
 <p>
