@@ -11,13 +11,13 @@
 </p>
 
 ```typescript
-const adal = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    timezone: "UTC+6",
-    education: "Cambridge AS & A Level",
-    passion: "Building tech that teaches, communities that uplift",
-    current_role: "President @ Presidency Intl. School Robotics Club"
-};
+      const adal = {
+          location: "Dhaka, Bangladesh 🇧🇩",
+          timezone: "UTC+6",
+          education: "Cambridge AS & A Level",
+          passion: "Building tech that teaches, communities that uplift",
+          current_role: "President @ Presidency Intl. School Robotics Club"
+      };
 ```
 
 </div>
@@ -87,6 +87,7 @@ Turning experiments into production-ready tools people actually use
 ## 🛠️ Arsenal
 
 </div>
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
