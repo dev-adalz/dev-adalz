@@ -149,7 +149,7 @@ Turning experiments into production-ready tools people actually use
 <td width="50%">
 <h3 align="center">🌐 Full-Stack Portfolio</h3>
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/1336/1336494.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/11096/11096817.png" width="80"/>
 <p><strong>Secure web app with modern architecture</strong></p>
 <p>RESTful APIs • Authentication • Cloud deployment</p>
 <p>
