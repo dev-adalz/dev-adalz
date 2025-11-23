@@ -33,13 +33,13 @@ const adal = {
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/1336/1336494.png" width="80"/>
+<img src="https://cdn-icons-png.freepik.com/256/8297/8297314.png?semt=ais_white_label" width="80"/>
 
 **Craft & Build**
 Creating scalable systems that solve real problems
 </td>
 <td width="33%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/2821/2821583.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6134/6134346.png" width="80"/>
 
 **Innovate & Compete**
 Pushing boundaries in robotics competitions
